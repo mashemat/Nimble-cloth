@@ -1,5 +1,5 @@
 # Nimble Cloth (A kinetic-based IoT model for <br /> indoor fall surveillance)
-
+This is a predictive model to monitor and control the fall risk 
 
 ## Hardware Requirment
 
