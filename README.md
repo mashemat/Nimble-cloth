@@ -1,4 +1,4 @@
-# Nimble Cloth (A kinetic-based IoT model for indoor fall surveillance)
+# Nimble Cloth (A kinetic-based IoT model for \\ indoor fall surveillance)
 
 
 ## Hardware Requirment
@@ -12,7 +12,7 @@
 
 ## Contact :e-mail:
 
-Masoud Hemmatpour (mashemat@gmail.com)
+Masoud Hemmatpour (mashemat@gmail.com) \\
 Calogero Brucculeri (brucculeri.calogero@gmail.com)
 Luca Rodi (luca.rodi7@gmail.com)
 Claudio Manconi (manconiclaudio@tiscali.it)
