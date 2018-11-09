@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/CMakeFiles/kaa_rsa_keygen"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/CMakeFiles/kaa_rsa_keygen.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/CMakeFiles/kaa_rsa_keygen-complete.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-install.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-mkdir.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-download.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-update.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-patch.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-configure.rule"
+		},
+		{
+			"file" : "/home/pi/kaa/build/libs/kaa/kaa_rsa_keygen-prefix/src/kaa_rsa_keygen-stamp/kaa_rsa_keygen-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"kaa_rsa_keygen"
+		],
+		"name" : "kaa_rsa_keygen"
+	}
+}

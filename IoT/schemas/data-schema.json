@@ -1,0 +1,15 @@
+ {
+     "type": "record",
+     "name": "DataCollectionFloat",
+     "namespace": "org.kaaproject.kaa.schema.sample",
+     "fields": [
+         {
+             "name": "res",
+             "type": "float"
+         },{
+             "name": "time",
+             "type": "string"
+         }
+     ]
+ }
+
