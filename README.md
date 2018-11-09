@@ -3,15 +3,23 @@ This is a predictive model to monitor and control the fall risk
 
 ## Hardware Requirment
 
+Kuman Robot...
+Arduino ..
+
 
 ## Software Requirment
 
+Python...
+Kaa framework..
 
 ## System Architecture
 
 #### Airbag
+Airbag system is working ...
 #### IoT model
+IoT model is working just like ...
 #### Robot
+Robot is a model for ....
 
 ## Contact :e-mail:
 
