@@ -13,8 +13,8 @@
 #define ACL_OFFSET        16384.0
 #define GYR_OFFSET        131.0
 #define THRESHOLD         5.0
-#define FALL_THRESHOLD    1.0
-#define GYR_THRESHOLD     1700.0
+#define FALL_THRESHOLD    2.0
+#define GYR_THRESHOLD     1000.0
 #define INFLATE_TIME      1000 
 #define VALVE             9
 
