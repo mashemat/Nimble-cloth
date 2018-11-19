@@ -24,6 +24,7 @@ Robot is a model for ....
 ## Contact :e-mail:
 
 Masoud Hemmatpour (mashemat@gmail.com) <br />
+Milad Karimshoushtari (milad.karimshoushtari@polito.it) <br />
 Calogero Brucculeri (brucculeri.calogero@gmail.com) <br />
 Luca Rodi (luca.rodi7@gmail.com) <br />
 Claudio Manconi (manconiclaudio@tiscali.it) <br />
